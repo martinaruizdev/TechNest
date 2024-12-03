@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&family=Press+Start+2P&family=Tektur:wght@500&display=swap');
+
+body{
+    font-family: "Montserrat", serif;
+    background-color: #181818;
+    
+}
+
+.hero{
+    background-image: url(assets/fondo.svg);
+    background-position: center;
+    background-size: cover;
+}
+
+h1,h2,h5{
+    font-family: "Tektur", serif;
+    font-weight: 500;
+}
+
+.navbar-brand, .logo{
+    font-family: "Press Start 2P", system-ui;
+}
+
+h2,h5{
+    color: #A7D129;
+}
+
+.btn{
+    background-color: #A7D129;
+    color: #1B1B1B;
+    border: none;
+    font-weight: 700;
+    border-radius: 0;
+}
+
+.card{
+    background-color: #212121;
+    width: 18rem;
+}
+
+.list-group-item{
+    background-color: #A7D129;
+}
+
+.discount{
+    background-color: #2d2d2d;
+}
+
+footer{
+    background-color: #212121;
+}
+
+
