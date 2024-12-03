@@ -12,6 +12,10 @@ body{
     background-size: cover;
 }
 
+.hero-text{
+    font-size: 1.1rem;
+}
+
 h1,h2,h5{
     font-family: "Tektur", serif;
     font-weight: 500;
